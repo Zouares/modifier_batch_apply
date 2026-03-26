@@ -94,7 +94,6 @@ modifier_batch_apply/
 | 4.2 LTS | ✅ Tested |
 | 4.3 | ✅ Tested |
 | 4.4+ / 5.0+ | ✅ Tested |
-| 3.6 LTS | ⚠️ Use the [3.6 branch](../../tree/blender-3.6) |
 
 ---
 
