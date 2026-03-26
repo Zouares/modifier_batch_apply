@@ -1,6 +1,6 @@
 # Modifier Batch Apply
 
-> A Blender addon that brings the full modifier workflow to multiple objects at once — directly from the N Panel.
+> A Blender addon that brings the full modifier workflow to multiple objects at once.
 
 ![Blender](https://img.shields.io/badge/Blender-4.2%2B-orange?logo=blender)
 ![License](https://img.shields.io/badge/License-GPL--3.0-blue)
@@ -93,7 +93,7 @@ modifier_batch_apply/
 |---|---|
 | 4.2 LTS | ✅ Tested |
 | 4.3 | ✅ Tested |
-| 4.4+ / 5.0+ | ✅ API guards in place |
+| 4.4+ / 5.0+ | ✅ Tested |
 | 3.6 LTS | ⚠️ Use the [3.6 branch](../../tree/blender-3.6) |
 
 ---
