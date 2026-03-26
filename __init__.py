@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Modifier Batch Apply",
-    "author": "Your Name",
+    "author": "Zouares",
     "version": (1, 0, 0),
     "blender": (4, 2, 0),
     "location": "View3D > N Panel > Modifiers",
