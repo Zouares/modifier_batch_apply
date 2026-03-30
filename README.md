@@ -108,8 +108,4 @@ git commit -m "Add: your feature description"
 git push origin feature/your-feature
 ```
 
----
 
-## License
-
-[GPL-3.0](LICENSE) — same as Blender itself.
